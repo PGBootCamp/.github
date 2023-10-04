@@ -4,7 +4,7 @@ We strive to support the development of PostgreSQL as a powerful and reliable re
 Our mission is to bring together PostgreSQL enthusiasts and experts in order to further contribute to the growth and development of this powerful database 
 management system.
 
-#Get involved
+# Get involved
 We invite all PostgreSQL enthusiasts, developers, and event organizers from across the world to join the initiative while sharing, spreading and utilizing the available content.
 All resources are free to use, but when you do so, please attribute the creator and the PG BootCamp initiative.
 The materials are available on the initiative's Github and can be utilized in any way. 
