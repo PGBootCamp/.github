@@ -29,8 +29,8 @@ Please email us with any inquiries at hello@pgbootcamp.info.
 
 PG BootCamp Initiative upholds the principles of PostgreSQL Code of Conduct, and we expect all members to do the same. The PostgreSQL Code of Conduct principles apply to all aspects of the members collaborations, whether digital or in person, and we encourage everyone to take part in making the space welcome and secure. PG BootCamp Initiative do not tolerate the following in any aspects:
 
-Behavior that is disruptive, disrespectful, or degrading to others, including any messages, images, or interactions by anyone, in any form, regardless of location.
-Harassment or discrimination based on age, ancestry, color, gender identity or expression, national origin, physical or mental disability, religion, sexual orientation, or any other characteristic protected by applicable local laws, regulations, and ordinances.
+- Behavior that is disruptive, disrespectful, or degrading to others, including any messages, images, or interactions by anyone, in any form, regardless of location.
+- Harassment or discrimination based on age, ancestry, color, gender identity or expression, national origin, physical or mental disability, religion, sexual orientation, or any other characteristic protected by applicable local laws, regulations, and ordinances.
 
 We invite everyone to get in touch with the PostgreSQL Code of Conduct Committee whenever you feel that something or someone is not abiding by thePostgreSQL Code of Conduct. To contact the PostgreSQL Code of Conduct Committee, send an email to coc@postgresql.org.
 
