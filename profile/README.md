@@ -17,7 +17,7 @@ The following events are taking place upon the PG BootCamp initiative:
 # Steering committee
 
 - Michael Goldberg
-- Vadim Yatsenko
+- Vadim Iatsenko
 
 # Keep in touch
 Please email us at support@pgbootcamp.info if you have any problems. In the future, we plan to handle the issues directly via Github.
