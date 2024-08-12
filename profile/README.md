@@ -11,8 +11,10 @@ The materials are available on the initiative's Github and can be utilized in an
 
 # Related Events
 The following events are taking place upon the PG BootCamp initiative:
-- March 19, 2023   PGBootCamp Israel 2023
-- October 5, 2023   PGBootCamp Russia 2023
+- March 19, 2023   PGBootCamp Israel 2023 (Israel, Tel-Aviv)
+- October 5, 2023   PGBootCamp Russia 2023 (Russia, Moskow)
+- April 16, 2024   PGBootCamp Minsk 2024 (Minsk, Belarus)
+- September 17, 2024   PGBootCamp Russia 2024 (Russia, Kazan)
 
 # Steering committee
 
