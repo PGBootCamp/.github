@@ -36,7 +36,7 @@ PG BootCamp Initiative upholds the principles of PostgreSQL Code of Conduct, and
 
 We invite everyone to get in touch with the PostgreSQL Code of Conduct Committee whenever you feel that something or someone is not abiding by thePostgreSQL Code of Conduct. To contact the PostgreSQL Code of Conduct Committee, send an email to coc@postgresql.org.
 
-Copyright © 2023. PGBootCamp Initiative. All Rights Reserved.
+Copyright © 2023-2024. PGBootCamp Initiative. All Rights Reserved.
 
 
 
